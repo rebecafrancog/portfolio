@@ -11,7 +11,7 @@ export const Skills: React.FC<SkillsProps> = ({ id }) => {
     {
       title: "Tech Stack",
       icon: <Code className="text-pink-400" size={32} />,
-      skills: ["HTML", "CSS", "JavaScript", "SQL", "Banco de Dados"]
+      skills: ["HTML", "CSS", "JavaScript", "SQL", "Python"]
     },
     {
       title: "Soft Skills",
