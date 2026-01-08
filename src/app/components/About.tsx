@@ -61,7 +61,7 @@ export const About: React.FC<AboutProps> = ({ id }) => {
           viewport={{ once: true }}
           className="text-center space-y-4"
         >
-          <h2 className="text-3xl md:text-4xl font-bold">About <span className="text-purple-400">Me</span></h2>
+          <h2 className="text-3xl md:text-4xl font-bold">Sobre<span className="text-purple-400">Mim</span></h2>
           <p className="text-gray-400 max-w-2xl mx-auto">
             Sempre em busca de uma oportunidade para me dedicar e aberta para novos aprendizados e experiências. 
             Busco contribuir com meu empenho para o crescimento da organização enquanto desenvolvo meus talentos.
