@@ -38,7 +38,7 @@ export const About: React.FC<AboutProps> = ({ id }) => {
     {
       degree: "Análise e Desenvolvimento de Sistemas",
       school: "UNINASSAU João Pessoa",
-      period: "Fev 2025 - Dez 2026 (Previsão)"
+      period: "Fev 2025 - Dez 2026 (Cursando)"
     },
     {
       degree: "Psicologia",
