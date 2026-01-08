@@ -16,7 +16,7 @@ export const Skills: React.FC<SkillsProps> = ({ id }) => {
     {
       title: "Soft Skills",
       icon: <Award className="text-yellow-400" size={32} />,
-      skills: ["Liderança", "Gestão de Pessoas", "Atendimento ao Cliente", "Comunicação", "Empatia","Proativa" "Trabalho em Equipe"]
+      skills: ["Liderança", "Gestão de Pessoas", "Atendimento ao Cliente", "Comunicação", "Empatia", "Proativa", "Trabalho em Equipe"]
     },
     {
       title: "Tools & Others",
