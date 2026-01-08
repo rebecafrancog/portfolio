@@ -21,8 +21,8 @@ export const Projects: React.FC<ProjectsProps> = ({ id }) => {
   return (
     <section id={id} className="py-20">
       <div className="text-center mb-16">
-        <h2 className="text-3xl md:text-4xl font-bold mb-4">Featured <span className="text-purple-400">Projects</span></h2>
-        <p className="text-gray-400">Some of my recent work</p>
+        <h2 className="text-3xl md:text-4xl font-bold mb-4">Projetos e <span className="text-purple-400">Ideias</span></h2>
+        <p className="text-gray-400">Projetos, trabalhos ou ideias realizadas e/ou que estão em construção.</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
