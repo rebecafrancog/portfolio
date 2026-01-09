@@ -43,7 +43,7 @@ export const Contact: React.FC<ContactProps> = ({ id }) => {
             </p>
           </div>
 
-          <div className="space-y-6" align="right">
+          <div className="space-y-6">
             <div className="flex items-start gap-4">
               <div className="p-3 bg-purple-900/20 rounded-lg text-purple-400">
                 <Mail size={24} />
