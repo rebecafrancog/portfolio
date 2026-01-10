@@ -71,7 +71,7 @@ export const Hero: React.FC<HeroProps> = ({ id }) => {
               <div className="relative">
                 <div className="w-32 h-32 md:w-40 md:h-40 rounded-lg overflow-hidden border-2 border-gray-700 shadow-lg">
                   <img 
-                    src="src/styles/AirBrush_20241022181519.jpeg"
+                    src="src/app/components/IMG_0632.jpeg"
                     alt="Rebeca Franco" 
                     className="w-full h-full object-cover"
                   />
