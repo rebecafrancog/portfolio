@@ -72,10 +72,10 @@ export const About: React.FC<AboutProps> = ({ id }) => {
             Sempre em busca de uma oportunidade para me dedicar e aberta para novos aprendizados e experiências. 
             Busco contribuir com meu empenho para o crescimento da organização enquanto desenvolvo meus talentos.
           </p>
-          
           <p className="text-gray-400 max-w-2xl mx-auto text-center">
-                                          Competências principais:
-        
+          Habilidades principais:
+          </p>
+          <p className="text-gray-400 max-w-2xl mx-auto text-center">
                                            •  Atendimento ao cliente
                                      •  Organização e gestão de informações
                                         •  Comunicação clara e objetiva
