@@ -38,7 +38,7 @@ export const Hero: React.FC<HeroProps> = ({ id }) => {
           <p className="text-gray-400 text-lg max-w-lg leading-relaxed">
             Estudante de Análise e Desenvolvimento de Sistemas, com experiência sólida em atendimento ao cliente e liderança, atualmente em transição
             para a área de tecnologia, com foco atualmente em desenvolvimento full stack.
-            Tenho forte interesse em aprender e estou sempre disposta para me dedicar em experiências e oportunidades.
+            Apaixonada por aprender e estou sempre disposta para me dedicar em experiências e oportunidades.
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">
