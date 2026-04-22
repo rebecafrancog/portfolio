@@ -12,7 +12,7 @@ export const About: React.FC<AboutProps> = ({ id }) => {
       role: "Agente de Reservas",
       company: "Hotel Village Premium - João Pessoa",
       period: "2026 - Presente",
-      description: "Atuo diretamente no atendimento ao público, realizando reservas conforme a necessidade do cliente, verificando disponibilidade, tarifas e condições, além de fornecer informações detalhadas sobre os serviços oferecidos. Também fico responsável por registrar dados em sistemas, confirmar solicitações e acompanhar possíveis alterações ou cancelamentos."
+      description: "Atuo diretamente com atendimento ao público, realizando reservas conforme a necessidade do cliente, verificando disponibilidade, tarifas e condições, além de fornecer informações detalhadas sobre os serviços oferecidos. Também fico responsável por registrar dados em sistemas, confirmar solicitações e acompanhar possíveis alterações ou cancelamentos."
     },
     {
       role: "Líder de Recepção",
