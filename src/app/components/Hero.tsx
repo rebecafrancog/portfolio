@@ -71,7 +71,7 @@ export const Hero: React.FC<HeroProps> = ({ id }) => {
               <div className="relative">
                 <div className="w-32 h-32 md:w-40 md:h-40 rounded-lg overflow-hidden border-2 border-gray-700 shadow-lg">
                   <img 
-                    src="https://media.licdn.com/dms/image/v2/D4E03AQEsUfxbKV9wlQ/profile-displayphoto-scale_200_200/B4EZufGUBBGQAY-/0/1767900791779?e=1773878400&v=beta&t=QGNtnAcTIlAXPTjyQ0XMZbCS1e4wfZPWTgoM-xVHvJ0"
+                    src="https://avatars.githubusercontent.com/u/159482574?v=4"
                     alt="Rebeca Franco" 
                     className="w-full h-full object-cover"
                   />
