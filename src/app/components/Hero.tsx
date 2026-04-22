@@ -42,7 +42,7 @@ export const Hero: React.FC<HeroProps> = ({ id }) => {
           </p>
 
           <div className="flex flex-wrap gap-4 pt-4">
-            <a href="https://github.com/rebecafrancog/rebecafrancog/blob/f75ce10a3eac26026fe39f2d38b6754ad252c8b9/CURRICULUM%20-%20REBECA%20FRANCO%2026.pdf" download="Rebeca_Franco_CV.pdf">
+            <a href="CURRICULUM%20-%20REBECA%20FRANCO%2026.pdf" download="Rebeca_Franco_CV.pdf">
               <button className="px-6 py-3 border border-gray-600 hover:border-purple-400 text-gray-300 hover:text-purple-400 font-semibold rounded transition-all flex items-center gap-2">
                 <Download size={20} />
                 Download CV
