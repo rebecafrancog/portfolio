@@ -9,10 +9,16 @@ interface AboutProps {
 export const About: React.FC<AboutProps> = ({ id }) => {
   const experiences = [
     {
+      role: "Agente de Reservas",
+      company: "Hotel Village Premium - João Pessoa",
+      period: "2026 - Presente",
+      description: "Atuo diretamente no atendimento ao público, realizando reservas conforme a necessidade do cliente, verificando disponibilidade, tarifas e condições, além de fornecer informações detalhadas sobre os serviços oferecidos. Também fico responsável por registrar dados em sistemas, confirmar solicitações e acompanhar possíveis alterações ou cancelamentos."
+    },
+    {
       role: "Líder de Recepção",
       company: "Hotel Village Premium - João Pessoa",
-      period: "Set-2024 - Presente",
-      description: "Realizo o trabalho de supervisão e orientação para com a minha equipe/setor, com o objetivo de promover uma ótima experiência na hospedagem do cliente, fazendo com que o próprio sinta-se acolhido e bem atendido."
+      period: "Set-2024 - 2026",
+      description: "Desempenhei a função de supervisão e orientação para com a minha equipe/setor, com o objetivo de promover uma ótima experiência na hospedagem do cliente, com o intuito de que, o próprio sinta-se acolhido e bem atendido."
     },
     {
       role: "Recepcionista",
@@ -21,7 +27,7 @@ export const About: React.FC<AboutProps> = ({ id }) => {
       description: "Realizei atendimentos com cordialidade e empatia, proporcionando melhor experiência para os hóspedes, orientando sobre serviços, tirando dúvidas e indicando pontos turísticos."
     },
     {
-      role: "Projeto Voluntário",
+      role: "Trabalho Voluntário",
       company: "Projeto Família Acolhedora - Prefeitura de João Pessoa",
       period: "Ago-2015 - Presente",
       description: "Realizo apoio no acolhimento de crianças e adolescentes em situações de risco. Os acolhimentos são realizados em casa, onde convivem com minha família até decisão judicial."
