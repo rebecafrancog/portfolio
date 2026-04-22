@@ -16,6 +16,7 @@ export const Projects: React.FC<ProjectsProps> = ({ id }) => {
       demoLink: "https://meu-treino-ideal-chi.vercel.app/",
       codeLink: "https://github.com/rebecafrancog/meu_treino_ideal.git"
     },
+    ],
     const projects = [
     {
       title: "Projeto em Flutter - em construção",
