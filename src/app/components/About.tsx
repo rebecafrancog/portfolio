@@ -73,15 +73,15 @@ export const About: React.FC<AboutProps> = ({ id }) => {
             Busco contribuir com meu empenho para o crescimento da organização enquanto desenvolvo meus talentos.
           </p>
           
-          <p className="text-gray-400 max-w-2xl mx-auto">
+          <p className="text-gray-400 max-w-2xl mx-auto text-center">
                                           Competências principais:
         
-                                            Atendimento ao cliente
-                                      Organização e gestão de informações
-                                          Comunicação clara e objetiva
-                                            Resolução de problemas
-                                              Uso de sistemas
-                                Trabalho sob pressão e cumprimento de prazos
+                                           •  Atendimento ao cliente
+                                     •  Organização e gestão de informações
+                                        •  Comunicação clara e objetiva
+                                           •  Resolução de problemas
+                                             •  Uso de sistemas
+                               •  Trabalho sob pressão e cumprimento de prazos
           </p>
         </motion.div>
 
