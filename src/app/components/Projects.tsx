@@ -16,6 +16,15 @@ export const Projects: React.FC<ProjectsProps> = ({ id }) => {
       demoLink: "https://meu-treino-ideal-chi.vercel.app/",
       codeLink: "https://github.com/rebecafrancog/meu_treino_ideal.git"
     },
+    const projects = [
+    {
+      title: "Projeto em Flutter - em construção",
+      description: "Plataforma desenvolvida para gestão de Hotel.",
+      tags: ["Dart", "Flutter", "Web", "Android"],
+      image: "https://media.licdn.com/dms/image/v2/D4E2DAQHH6nROszDFbA/profile-treasury-image-shrink_1280_1280/B4EZ21cy8hIwAY-/0/1776865718570?e=1777471200&v=beta&t=iXS8qWaLNFC_a2tADrhlVH2lr83TH1LvBe-8qHYhv28",
+      demoLink: "ainda em desenvolvimento",
+      codeLink: "https://github.com/rebecafrancog/Projeto_Hotel_Flutter"
+    },
   ];
 
   return (
