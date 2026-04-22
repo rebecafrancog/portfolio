@@ -72,6 +72,20 @@ export const About: React.FC<AboutProps> = ({ id }) => {
             Sempre em busca de uma oportunidade para me dedicar e aberta para novos aprendizados e experiências. 
             Busco contribuir com meu empenho para o crescimento da organização enquanto desenvolvo meus talentos.
           </p>
+          function App() {
+  return (
+    <div className="h-screen flex justify-center items-center">
+      <p>Competências principais:
+        
+Atendimento ao cliente
+Organização e gestão de informações
+Comunicação clara e objetiva
+Resolução de problemas
+Uso de sistemas
+Trabalho sob pressão e cumprimento de prazos</p>
+    </div>
+  );
+}
         </motion.div>
 
         <div className="grid md:grid-cols-2 gap-8">
